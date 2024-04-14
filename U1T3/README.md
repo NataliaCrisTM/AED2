@@ -1,3 +1,5 @@
+link do video: https://drive.google.com/file/d/1zXGMbqytVtivruev5FlK1dF0KQeCbtMf/view?usp=drive_link
+
 ##Desafio 1##
 
   Função 'traverse' Recursiva: A solução utiliza uma função chamada 'traverse' que percorre a árvore de forma recursiva. Isso significa que a função é chamada repetidamente, explorando cada nó da árvore de maneira estruturada.
