@@ -8,4 +8,4 @@ link para repositório 02: https://github.com/NataliaCrisTM/AED2/tree/main/U2A1/
 
 link para repositório 03: https://github.com/NataliaCrisTM/AED2/tree/main/U2A1/Requisito_03
 
-link para o vídeo:
+link para o vídeo:https://www.youtube.com/watch?v=660i3LXpDVI
